@@ -17,4 +17,4 @@ This project features an interactive sales dashboard built using Google Looker S
 - Google Cloud Services
 
 
-![Uploading Screenshot 2024-09-09 115155.png…]()
+![Screenshot 2024-09-09 115155](https://github.com/user-attachments/assets/5040eca5-79d4-4b42-9884-f4f370c1fc0e)
